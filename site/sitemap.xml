@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
-         <lastmod>2023-01-30</lastmod>
+         <loc>https://z1996xm.github.io/mymkdocs/</loc>
+         <lastmod>2023-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://z1996xm.github.io/mymkdocs/FAQ/</loc>
+         <lastmod>2023-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://z1996xm.github.io/mymkdocs/Features/</loc>
+         <lastmod>2023-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://z1996xm.github.io/mymkdocs/Overview/</loc>
+         <lastmod>2023-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
