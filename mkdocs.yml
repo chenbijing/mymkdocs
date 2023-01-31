@@ -3,3 +3,8 @@ site_url:https://z1996xm.github.io/mymkdocs/
 site_author: 你的名字
 theme:
  name: material #主题
+ 
+ nav:
+  - Overview.md
+  - Features.md
+  - FAQ.md
