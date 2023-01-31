@@ -490,3 +490,4 @@ example:
 sudo ~/klipper/scripts/klipper-uninstall.sh
 rm -rf ~/klippy-env ~/klipper
 ```
+123456789adbjhdiughdiugh
