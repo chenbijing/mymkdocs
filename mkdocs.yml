@@ -4,7 +4,7 @@ site_author: 你的名字
 theme:
  name: material #主题
  
- nav:
+nav:
   - Overview.md
   - Features.md
   - FAQ.md
