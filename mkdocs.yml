@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url:
+site_url:https://z1996xm.github.io/mymkdocs/
 site_author: 你的名字
 theme:
  name: material #主题
